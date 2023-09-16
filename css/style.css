@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    color: rgb(33, 6, 58);
+    
+}
+
+h4{
+
+    text-align: center;
+    color: blue;
+}
+
+h5{
+
+    text-align: center;
+    color: rgb(255, 0, 255);
+}
+
+
+img{
+
+    width: 400px;
+    height: 300%;
+
+
+}
+
+
+p{
+
+    text-align: center;
+    color: blueviolet;
+  font-size: medium;
+}
